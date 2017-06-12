@@ -10,4 +10,4 @@ I use the scalatra as the web server, it is suitable for new users like me to ge
 
 ## For data pipeline, python vs scala?
 
-After trying both two, I personally like scala more. The reason is scala can support type comprehension which is awesome. Besides, any java library can be easily used in scala. For those who are good at java and new to scala, it would be a great advantage to get started with scala. 
+After trying both two, I personally like scala more. The reason is scala can support type comprehension which is awesome. Besides, any java library can be easily used in scala. For those who are good at java and new to scala, it would be a great advantage to get started with scala.   
